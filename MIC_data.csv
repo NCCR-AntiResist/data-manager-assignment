@@ -1,0 +1,61 @@
+strain,Isolate #,Species,Labor Number,Date,Box,Platz,DNA concentration,Date of isolation,Localisation,MIC (ug/mL),Ampicillin,Amoxicillin-Claulanacid,Piperacillin-Tazobactam,Ampicillin-Sulbactam,Cefazolin,Cefuroxim-Axetil,Ceftriaxon,Ceftazidim,Cefpodoxim,Cefepim,Ertapenem,Imipenem,Meropenem,Aztreonam,Ceftarolin,Ceftazidim-Avibactam,Ceftobiprol,Ceftolozan-Tazobactam,Tetracyclin,Tobramycin,Amikacin,Gentamicin,Cotrimoxazol,Nitrofurantoin,Norfloxacin,Ciprofloxacin,Levofloxacin,Colistin,Fosfomycin-Trometamol,Tigecyclin,Rifampicin,Minocyclin,Doxycyclin,comment
+carb001,38,Kleb,402738,2010,1,A2,27.4,11/15/2010,unknown (culture),,,,,,,,,,,,,8,4,,,,,,,,,,,,,,,,,,,,,"Phenotypic evidence for carbapenemase; KPC, VIM and IMP PCR negative"
+carb002,48,Kleb,402859,2010,1,A6,18.2,12/1/2010,unknown (culture),,>=32,>=32,>=128,,,>=64,,>=64,>=8,>=64,,4,,,,,,,>=16,,,4,>=320,256,>=16,>=4,,,>=256,,,,,"Phenotypic evidence for carbapenemase; KPC, VIM and IMP PCR negative"
+carb003,14,Esch,800329,2011,1,B3,57.6,1/26/2011,"Swab, inguinal",,>=32,>=32,>=128,,,>=64,,>=64,>=8,<=1,,8,,,,,,,>=16,,,4,>=320,<=16,>=16,>=4,,0.125,<=16,,,,,no genotypic PCR result available
+carb004,41,Kleb,400793,2011,1,B5,39.6,3/22/2011,unknown (culture),,>=32,>=32,>=128,,,>=64,>=64,16,>=8,2,>=8,>=16,>=16,,,,,,,>=16,<=2,,>=320,,,,,,<=16,,,,,KPC in PCR detected
+carb005,31,Kleb,704984,2011,1,B6,28.6,3/28/2011,Urine,,>=32,>=32,>=128,,,>=64,,>=64,>=8,8,0.5,0.25,0.06,,,,,,>=16,,,>=16,>=320,>=16,>=16,>=4,,0.5,>=256,,,,,Phenotypic ESBL and porinlost
+carb006,42,Kleb,501326,2011,1,B7,42.8,3/28/2011,Bronchial secretion,,>=32,>=32,>=128,,,>=64,,4,>=8,2,2,2,>=16,,,,,,,>=16,>=64,,>=320,,,>=4,,0.5,<=16,2,,,64,"Phenotypic ESBL, genotypic additional KPC"
+carb007,19,Esch,804414-1,2011,1,C3,71.6,10/6/2011,rectal swap,,>=32,>=32,>=128,,,>=64,>=64,>=64,,>=64,>=8,>=16,>=16,,,,,,,<=1,<=2,,>=320,,,<=0.25,,0.125,4,0.25,,,,"Phenotypic evidence for carbapenemase, MBL"
+carb008,3,Esch,805095,2011,1,D1,26.6,11/14/2011,rectal swap,,>=32,>=32,>=128,,,>=64,<=1,<=1,,32,<=0.5,<=1,<=0.25,,,,,,,2,<=2,,<=20,,,0.5,,<=0.5,,,,,,Phenotypic ESBL
+carb009,8,Esch,718481,2011,1,D2,57,11/14/2011,Urine,,>=32,>=32,>=128,,,32,<=1,<=1,4,32,<=5,<=1,<=0.25,,,,,,,8,<=2,,>=320,64,,>=4,,<=0.5,<=16,,,,,Phenotypic ESBL
+carb010,39,Kleb,403420,2011,1,D4,32.2,12/5/2011,unknown (culture),,>=32,>=32,>=128,,,>=64,>=64,>=64,,16,>=8,4,4,,,,,,,>16,>=64,,>=320,,,>=4,,>=16,,,,,,Oxa48 confirmed in PCR
+carb011,45,Kleb,503397,2010,1,D7,59.4,8/14/2010,bronchoalveolar lavage,,>16,>16,>128,,,>16,>32,,,>32,,,>16,,,,,,,,,,,,,,,,,,,,,KPC confirmed in PCR
+carb012,5,Esch,702166,2012,1,E1,41.6,2/2/2012,Urine from cathether,,>=32,8,2,,,>=64,0.25,,,0.125,<=0.5,0.25,<=0.25,,,,,,,<=1,4,,>=320,64,,<=0.25,,<=0.5,<=16,,,,,no ESBL phenotype
+carb013,1,Esch,400695,2012,1,E2,73,3/5/2012,unknown (culture),,>=32,>=32,>=128,,,>=64,>=64,4,,4,1,1.5,0.75,16,,,,,,>=16,>=64,,<=20,,,>=4,,<=0.5,,,,,,KPC confirmed in PCR
+carb014,16,Esch,501181,2012,1,E5,31.6,3/16/2012,Tracheal secretion,,>=32,>=32,>256,,,>=64,>=64,>=64,,>=64,>32,>32,>32,24,,,,,,>=16,6,,<=20,,,>=4,,<=0.5,,0.38,,,,phenotypic evidence for MBL
+carb015,20,Esch,401068,2012,1,E7,40.8,4/11/2012,unknown (culture),,>=32,16,>256,,,>=64,>=64,>=64,,>=64,16,0.5,1,,,,,,,>=16,<=2,,<=20,,,>=4,,<=0.5,,,,,,most likely ESBL with Porin lost
+carb016,29,Kleb,401075,2012,1,E8,42.6,4/12/2012,unknown (culture),,>=32,>=32,>=128,,,>=64,>=64,>=64,,16,>=8,1.5,4,,,,,,,>=16,<=2,,<=20,,,2,,<=0.5,,,,,,Oxa48 confirmed in PCR
+carb017,11,Esch,401808,2012,1,F8,34.2,6/30/2012,unknown (culture),,,,,,,,,,,,>32,24,>32,>256,,,,,,,,,,,,,,,,,,,,Phenotypic evidence for MBL carbapenemase
+carb018,32,Kleb,400266,2013,1,H8,54,1/24/2013,unknown (culture),,>=32,>=32,>=128,,,,>=64,>=64,,>=64,>=8,2,>=16,,,,,,,>=16,16,,>=320,,,>=4,,<=0.5,,,,,,Oxa48 confirmed in PCR
+carb019,24,Kleb,401717,2013,2,A5,74.6,5/31/2013,unknown (culture),,>=32,>=32,>=128,,,,<=1,<=1,,<=1,>32,1.5,0.38,,,,,,,<=1,<=2,,<=20,,,<=0.25,,<=0.5,,,,,,Oxa48 confirmed in PCR
+carb020,18,Esch,401805-3,2013,2,A7,110,6/10/2013,unknown (culture),,,,,,,,,,,,4,0.5,0.38,,,,,,,,,,,,,,,,,,,,,Oxa48 confirmed in PCR
+carb021,25,Kleb,402894,2013,2,B3,63.2,9/13/2013,unknown (culture),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NDM in PCR detected
+carb022,12,Esch,400772,2014,2,B9,32.2,3/3/2014,unknown (culture),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,KPC in PCR detected
+carb023,44,Kleb,401508,2014,2,C5,29.2,5/7/2014,unknown (culture),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,KPC in PCR detected
+carb024,27,Kleb,401608,2014,2,D4,77,5/14/2014,unknown (culture),,,24,>256,,,>256,>256,>256,,,>32,>32,>32,,,,,,,8,24,1,,,,,,,,,,,,VIM in PCR detected
+carb025,30,Kleb,401801,2014,2,D6,14.1,6/2/2014,unknown (culture),,≥32,≥32,≥128,,,,≥64,≥64,,32,,,,,,,,,,≥16,16,,≤20,,,1,,<=0.5,,,,,,"KPC confirmed in PCR; no IMP, no Oxa48, no NDM"
+carb026,46,Kleb,804135,2014,2,E6,45.4,8/4/2014,Urine,,>=32,>=32,>=128,,,,>=64,>=64,>=8,>=64,>=8,>=16,>=16,,,,,,,>=16,>=64,,>=320,,,>=4,,32,<=0.5,,,,,Oxa48 confirmed in PCR
+carb027,28,Kleb,403161,2015,2,F2,18.7,9/10/2015,unknown (culture),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NDM in PCR detected
+carb028,35,Kleb,403669,2015,3,A3,14.4,10/20/2015,unknown (culture),,>=32,>=32,>=128,,,,>=64,>=64,,>=64,>=8,1,2,,,,,,,>=16,4,,>=320,,,1,,<=0.5,,,,,,most likely ESBL with AmpC and Porin lost; most common carbapenemases negative
+carb029,47,Kleb,403850,2015,3,A4,39.4,11/4/2015,unknown (culture),,,,,,,,,,,,4,3,4,,,,,,,,,,,,,,,,,,,,,KPC in PCR detected
+carb030,34,Kleb,404197,2015,3,B8,69.4,12/3/2015,unknown (culture),,≥32,≥32,>=128,,,,32,<=1,,2,4,2,1,,,,,,,4,<=2,,>=320,,,1,,<=0.5,,,,,,Oxa181 (Oxa48-like) and CTXM9 in PCR detected
+carb031,53,Pseu,500144,2016,3,B9,44.6,1/9/2016,Tracheal secretion,,,,>=128,,,,,>256,,>256,,>=16,>32,24,,,,,,4,>=64,,,,,16,,2,4,,,,,IMP in PCR detected
+carb032,6,Esch,804001,2016,3,D7,40.8,7/22/2016,rectal swab,,≥32,≥32,>=128,,,,>=64,4,,<=1,0.75,4,0.75,,,,,,,<=1,<=2,,>=320,,,1,,<=0.5,,,,,,Oxa48 and CTXM1 confirmed in PCR
+carb033,13,Esch,607795,2016,3,D9,57.2,8/18/2016,"Abscess, Scrotum",,≥32,≥32,,,,,≤1,≤1,,2,≤0.5,≤0.25,≤0.25,,,,,,,≤1,≤2,,>=320,,,≥4,,<=0.5,,,,,,Oxa-1
+carb034,51,Acin,403425,2016,3,E2,31.2,9/11/2016,"Swab, scrotum",,,,>=128,8,,,>=64,>=64,,>=64,,16,>32,,,,>32,,,>=16,>=64,,>=320,,,≥4,0.19,<=0.5,,4,,,,Oxa-90 in WGS detected
+carb035,7,Esch,131550,2016,3,E8,44.6,9/23/2016,blood culture,,>=32,>=32,>256,,,,<=1,<=1,,<=1,>=8,>=16,>=16,,,,,,,<=1,<=2,,>=320,,,>=4,,<=0.5,,,,,,Oxa48 confirmed in PCR
+carb036,23,Kleb,403773,2016,3,F3,45.8,10/5/2016,unknown (culture),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NDM in PCR detected
+carb037,21,Kleb,403774,2016,3,F4,45,10/5/2016,unknown (culture),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VIM in PCR detected
+carb038,37,Kleb,403869,2016,3,F6,56,10/13/2016,unknown (culture),,,,,,,,,,,,,,,,,>256,,>256,,,,,,,,,,,,,,,,NDM in PCR detected
+carb039,22,Kleb,404431,2016,3,G4,38,11/26/2016,unknown (culture),,>=32,>=32,>256,>=256,,,,>=256,,,>=32,>=32,32,,,>256,,,,>=16,16,,<=20,,,1,,<=0.5,,,>32,4,,NDM in PCR detected
+carb040,43,Kleb,404556,2016,3,G5,47.2,12/5/2016,unknown (culture),,,,,,,,,,,,,,0.38,,,,,,,6,,1,,,,,,,,,,,,Oxa48 confirmed in PCR
+carb041,15,Esch,808922-42,2016,3,H4,34,12/11/2016,rectal swab,,>=32,>=32,>=128,,,,>=64,>=64,,>=64,>=8,>=16,>=16,,,,,,,<=1,<=2,,<=20,,,>=4,,<=0.5,,,,,,NDM in PCR detected
+carb042,40,Kleb,808927-4,2016,3,H5,44,12/11/2016,"swab, abdominal",,>=32,>=32,>=128,,,,>=64,>=64,,>=64,>=8,12,>=16,,,,,,,>=16,>=64,,>=320,,,>=4,,4,,,,,,CTXM1 and Oxa181 (Oxa48-like) in PCR
+carb043,4,Esch,808934-10,2016,3,H6,32.8,12/11/2016,vaginal swab,,>=32,>=32,>=128,,,,>=64,>=64,,>=64,>=8,>=16,>=16,,,,,,,>=16,8,,>=320,,,>=4,,<=0.5,,,,,,NDM in PCR detected
+carb044,36,Kleb,401084,2017,3,I5,33.4,3/27/2017,unknown (culture),,,,,,,,,,,,,8,12,,,,,,,,,,,,,,,0.75,,,,,,Oxa48 confirmed in PCR
+carb045,10,Esch,707974,2017,7,A6,25.6,5/10/2017,Urine,,>=32,>=32,>=128,,,,>=64,>=64,>=8,>=64,4,2,2,,,,,,,>=16,4,,>=320,64,,>=4,,<=5,<=16,,,,,CTXM1 and Oxa181 (Oxa48-like) in PCR
+carb046,33,Kleb,713220-4,2017,10,C1,47.2,8/3/2017,Urine,,>=32,>=32,>=128,,,,16,16,>=8,<=1,4,0.5,1,,,,,,,<=1,<=2,,<=20,,,1,,<=0.5,<=16,,,,,Oxa181 (Oxa48-like) in PCR detected
+carb047,49,Acin,403172,2017,4,B4,26.2,8/21/2017,unknown (culture),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oxa40 (former Oxa24) in PCR detected
+carb048,52,Acin,403499,2017,4,B7,27.8,9/20/2017,unknown (culture),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oxa23 in PCR detected
+carb049,0,Esch,601641,2017,3,H9,85.8,2/17/2017,"Abscess, Abdomen",,>=32,>=32,,,,,<=1,2,,2,,2,0.5,0.75,,,,,,<=1,4,,<=20,,,<=0.25,,<=0.5,,0.125,,,,"Phenotypic evidence for Oxa48, but not genotypically confirmed"
+carb050,2,Esch,714843,2017,10,H3,23.6,8/30/2017,Urine from catheter,,>=32,>=32,,,,,<=1,1.5,>=8,2,<=5,5,<0.25,,,,,,,<=1,16,,40,32,,>=4,,<=0.5,<=16,,,,,Suspected rare betalactamase
+carb051,9,Esch,713852,2017,10,G8,47.8,8/14/2017,Urine,,>=32,>=32,8,,,,8,>=64,>=8,16,<=0.5,<=0.25,<=0.25,,,,,,,>=16,<=2,,>=320,<=16,,>=4,,<=0.5,<=16,,,,,plasmidic ampC
+carb052,17,Esch,610215,2016,,,,nicht vorhanden,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+carb053,26,Kleb,303987,2016,118,H6,114,9/19/2016,stool,,>=32,>=32,>=128,,,,8,16,,>=64,>=8,8,8,,,,,,,<=1,<=2,,80,,,0.5,,<=0.5,,,,,,evidence for porin lost
+carb054,50,Acin,400204,2017,3,H4,35.2,1/17/2017,unknown (culture),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no evidence for Carbapenemases in PCR
+carb055,54,Pseu,400607,2017,3,H8,102,2/17/2017,rectal swab,,,,16,,,,,3,,12,,>32,16,6,,3,>32,2,,>=16,>=64,,,,,>=4,,<=0.5,,,,,,no evidence for carbapenemase
+carb056,55,Pseu,400360,2017,,,,nicht vorhanden,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+carb057,56,Pseu,128183,2015,38,E8,98.6,9/1/2015,blood culture,,,,32,,,,,16,,,,>32,>32,32,,,,,,1.5,4,,,,,0.75,,3,24,,,,,no evidence for carbapenemase
+carb058,57,Pseu,501526-1,2017,6,B5,116,4/11/2017,Tracheal secretion,,,,32,,,,,16,,16,,>=16,>=16,,,,,,,<=1,16,,,,,1,,<=0.5,,,,,,no evidence for carbapenemase
+carb059,58,Pseu,501457-2,2017,6,E2,80,4/5/2017,Sputum,,,,>256,,,,,>256,,8,,>32,>32,>256,>32,4,>32,2,,48,>256,,0.032,,,4,>32,0.75,>1024,,,,,"same patient, no evidence for carbapenemase"
+carb060,59,Pseu,501457-3,2017,6,E3,51.6,4/5/2017,Sputum,,,,>256,,,,,>256,,8,,>32,>32,>256,>32,4,>32,2,,48,>256,,0.032,,,4,>32,0.75,>1024,,,,,"same patient, no evidence for carbapenemase"

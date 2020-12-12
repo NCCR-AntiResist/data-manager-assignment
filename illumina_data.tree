@@ -1,0 +1,734 @@
+Carbapenemases_illumina
+├── 108180-12_S26_L001_R1_001.fastq.gz_trimming_report.txt
+├── 108180-12_S26_L001_R1_001_val_1.fq.gz
+├── 108180-12_S26_L001_R2_001.fastq.gz_trimming_report.txt
+├── 108180-12_S26_L001_R2_001_val_2.fq.gz
+├── 118937-12_S15_L001_R1_001.fastq.gz_trimming_report.txt
+├── 118937-12_S15_L001_R1_001_val_1.fq.gz
+├── 118937-12_S15_L001_R2_001.fastq.gz_trimming_report.txt
+├── 118937-12_S15_L001_R2_001_val_2.fq.gz
+├── 120669-12_S16_L001_R1_001.fastq.gz_trimming_report.txt
+├── 120669-12_S16_L001_R1_001_val_1.fq.gz
+├── 120669-12_S16_L001_R2_001.fastq.gz_trimming_report.txt
+├── 120669-12_S16_L001_R2_001_val_2.fq.gz
+├── 127972-15_S1_L001_R1_001.fastq.gz_trimming_report.txt
+├── 127972-15_S1_L001_R1_001_val_1.fq.gz
+├── 127972-15_S1_L001_R2_001.fastq.gz_trimming_report.txt
+├── 127972-15_S1_L001_R2_001_val_2.fq.gz
+├── 127978-15_S2_L001_R1_001.fastq.gz_trimming_report.txt
+├── 127978-15_S2_L001_R1_001_val_1.fq.gz
+├── 127978-15_S2_L001_R2_001.fastq.gz_trimming_report.txt
+├── 127978-15_S2_L001_R2_001_val_2.fq.gz
+├── 128023-15_S3_L001_R1_001.fastq.gz_trimming_report.txt
+├── 128023-15_S3_L001_R1_001_val_1.fq.gz
+├── 128023-15_S3_L001_R2_001.fastq.gz_trimming_report.txt
+├── 128023-15_S3_L001_R2_001_val_2.fq.gz
+├── 128025-15_S4_L001_R1_001.fastq.gz_trimming_report.txt
+├── 128025-15_S4_L001_R1_001_val_1.fq.gz
+├── 128025-15_S4_L001_R2_001.fastq.gz_trimming_report.txt
+├── 128025-15_S4_L001_R2_001_val_2.fq.gz
+├── 128082-15_S5_L001_R1_001.fastq.gz_trimming_report.txt
+├── 128082-15_S5_L001_R1_001_val_1.fq.gz
+├── 128082-15_S5_L001_R2_001.fastq.gz_trimming_report.txt
+├── 128082-15_S5_L001_R2_001_val_2.fq.gz
+├── 128183-15_S7_L001_R1_001.fastq.gz_trimming_report.txt
+├── 128183-15_S7_L001_R1_001_val_1.fq.gz
+├── 128183-15_S7_L001_R2_001.fastq.gz_trimming_report.txt
+├── 128183-15_S7_L001_R2_001_val_2.fq.gz
+├── 128185-15_S6_L001_R1_001.fastq.gz_trimming_report.txt
+├── 128185-15_S6_L001_R1_001_val_1.fq.gz
+├── 128185-15_S6_L001_R2_001.fastq.gz_trimming_report.txt
+├── 128185-15_S6_L001_R2_001_val_2.fq.gz
+├── 131550-16_S44_L001_R1_001.fastq.gz_trimming_report.txt
+├── 131550-16_S44_L001_R1_001_val_1.fq.gz
+├── 131550-16_S44_L001_R2_001.fastq.gz_trimming_report.txt
+├── 131550-16_S44_L001_R2_001_val_2.fq.gz
+├── 2018_adds
+│   ├── 2451167-16-1_S9_L001_R1_001.fastq.gz
+│   ├── 2451167-16-1_S9_L001_R2_001.fastq.gz
+│   ├── 2451167-16-2_S10_L001_R1_001.fastq.gz
+│   ├── 2451167-16-2_S10_L001_R2_001.fastq.gz
+│   ├── 400733-17_S15_L001_R1_001.fastq.gz
+│   ├── 400733-17_S15_L001_R2_001.fastq.gz
+│   ├── 400852-17_S14_L001_R1_001.fastq.gz
+│   ├── 400852-17_S14_L001_R2_001.fastq.gz
+│   ├── 400901-17_S16_L001_R1_001.fastq.gz
+│   ├── 400901-17_S16_L001_R2_001.fastq.gz
+│   ├── 401122-15_S21_L001_R1_001.fastq.gz
+│   ├── 401122-15_S21_L001_R2_001.fastq.gz
+│   ├── 401141-17_S17_L001_R1_001.fastq.gz
+│   ├── 401141-17_S17_L001_R2_001.fastq.gz
+│   ├── 401356-16_S17_L001_R1_001.fastq.gz
+│   ├── 401356-16_S17_L001_R2_001.fastq.gz
+│   ├── 401524-16_S18_L001_R1_001.fastq.gz
+│   ├── 401524-16_S18_L001_R2_001.fastq.gz
+│   ├── 401698-16_S19_L001_R1_001.fastq.gz
+│   ├── 401698-16_S19_L001_R2_001.fastq.gz
+│   ├── 402193-15_S15_L001_R1_001.fastq.gz
+│   ├── 402193-15_S15_L001_R2_001.fastq.gz
+│   ├── 402194-15_S14_L001_R1_001.fastq.gz
+│   ├── 402194-15_S14_L001_R2_001.fastq.gz
+│   ├── 402277-16_S20_L001_R1_001.fastq.gz
+│   ├── 402277-16_S20_L001_R2_001.fastq.gz
+│   ├── 402292-17_S18_L001_R1_001.fastq.gz
+│   ├── 402292-17_S18_L001_R2_001.fastq.gz
+│   ├── 402348-16_S21_L001_R1_001.fastq.gz
+│   ├── 402348-16_S21_L001_R2_001.fastq.gz
+│   ├── 402365-16_S22_L001_R1_001.fastq.gz
+│   ├── 402365-16_S22_L001_R2_001.fastq.gz
+│   ├── 402608-17_S19_L001_R1_001.fastq.gz
+│   ├── 402608-17_S19_L001_R2_001.fastq.gz
+│   ├── 403324-14_S12_L001_R1_001.fastq.gz
+│   ├── 403324-14_S12_L001_R2_001.fastq.gz
+│   ├── 403425-16_S7_L001_R1_001.fastq.gz
+│   ├── 403425-16_S7_L001_R2_001.fastq.gz
+│   ├── 403586-14_S14_L001_R1_001.fastq.gz
+│   ├── 403586-14_S14_L001_R2_001.fastq.gz
+│   ├── 403639-14_S13_L001_R1_001.fastq.gz
+│   ├── 403639-14_S13_L001_R2_001.fastq.gz
+│   ├── 403772-16_S8_L001_R1_001.fastq.gz
+│   ├── 403772-16_S8_L001_R2_001.fastq.gz
+│   ├── 403829-14_S15_L001_R1_001.fastq.gz
+│   ├── 403829-14_S15_L001_R2_001.fastq.gz
+│   ├── 404018-14_S16_L001_R1_001.fastq.gz
+│   ├── 404018-14_S16_L001_R2_001.fastq.gz
+│   ├── 404075-14_S17_L001_R1_001.fastq.gz
+│   ├── 404075-14_S17_L001_R2_001.fastq.gz
+│   ├── 404555-16_S11_L001_R1_001.fastq.gz
+│   ├── 404555-16_S11_L001_R2_001.fastq.gz
+│   ├── 404674-16_S13_L001_R1_001.fastq.gz
+│   ├── 404674-16_S13_L001_R2_001.fastq.gz
+│   ├── 500440-16_S16_L001_R1_001.fastq.gz
+│   ├── 500440-16_S16_L001_R2_001.fastq.gz
+│   ├── 604785-15-1_S22_L001_R1_001.fastq.gz
+│   ├── 604785-15-1_S22_L001_R2_001.fastq.gz
+│   ├── 604785-15-2_S23_L001_R1_001.fastq.gz
+│   ├── 604785-15-2_S23_L001_R2_001.fastq.gz
+│   ├── 705072-15_S19_L001_R1_001.fastq.gz
+│   ├── 705072-15_S19_L001_R2_001.fastq.gz
+│   ├── 710113-15_S13_L001_R1_001.fastq.gz
+│   ├── 710113-15_S13_L001_R2_001.fastq.gz
+│   ├── 800441-15_S18_L001_R1_001.fastq.gz
+│   ├── 800441-15_S18_L001_R2_001.fastq.gz
+│   ├── 801555-15_S20_L001_R1_001.fastq.gz
+│   ├── 801555-15_S20_L001_R2_001.fastq.gz
+│   ├── 802699-15_S24_L001_R1_001.fastq.gz
+│   ├── 802699-15_S24_L001_R2_001.fastq.gz
+│   ├── 802700-15_S12_L001_R1_001.fastq.gz
+│   ├── 802700-15_S12_L001_R2_001.fastq.gz
+│   ├── 808937-18-16_S12_L001_R1_001.fastq.gz
+│   └── 808937-18-16_S12_L001_R2_001.fastq.gz
+├── 2751350-17_S6_L001_R1_001.fastq.gz_trimming_report.txt
+├── 2751350-17_S6_L001_R1_001_val_1.fq.gz
+├── 2751350-17_S6_L001_R2_001.fastq.gz_trimming_report.txt
+├── 2751350-17_S6_L001_R2_001_val_2.fq.gz
+├── 2763842-17_S1_L001_R1_001.fastq.gz_trimming_report.txt
+├── 2763842-17_S1_L001_R1_001_val_1.fq.gz
+├── 2763842-17_S1_L001_R2_001.fastq.gz_trimming_report.txt
+├── 2763842-17_S1_L001_R2_001_val_2.fq.gz
+├── 2765745-17_S2_L001_R1_001.fastq.gz_trimming_report.txt
+├── 2765745-17_S2_L001_R1_001_val_1.fq.gz
+├── 2765745-17_S2_L001_R2_001.fastq.gz_trimming_report.txt
+├── 2765745-17_S2_L001_R2_001_val_2.fq.gz
+├── 2765747-17_S3_L001_R1_001.fastq.gz_trimming_report.txt
+├── 2765747-17_S3_L001_R1_001_val_1.fq.gz
+├── 2765747-17_S3_L001_R2_001.fastq.gz_trimming_report.txt
+├── 2765747-17_S3_L001_R2_001_val_2.fq.gz
+├── 2766060-17_S4_L001_R1_001.fastq.gz_trimming_report.txt
+├── 2766060-17_S4_L001_R1_001_val_1.fq.gz
+├── 2766060-17_S4_L001_R2_001.fastq.gz_trimming_report.txt
+├── 2766060-17_S4_L001_R2_001_val_2.fq.gz
+├── 2766255-17_S5_L001_R1_001.fastq.gz_trimming_report.txt
+├── 2766255-17_S5_L001_R1_001_val_1.fq.gz
+├── 2766255-17_S5_L001_R2_001.fastq.gz_trimming_report.txt
+├── 2766255-17_S5_L001_R2_001_val_2.fq.gz
+├── 303987_S21_L001_R1_001.fastq.gz_trimming_report.txt
+├── 303987_S21_L001_R1_001_val_1.fq.gz
+├── 303987_S21_L001_R2_001.fastq.gz_trimming_report.txt
+├── 303987_S21_L001_R2_001_val_2.fq.gz
+├── 357664-14_S13_L001_R1_001.fastq.gz_trimming_report.txt
+├── 357664-14_S13_L001_R1_001_val_1.fq.gz
+├── 357664-14_S13_L001_R2_001.fastq.gz_trimming_report.txt
+├── 357664-14_S13_L001_R2_001_val_2.fq.gz
+├── 400161-1-16_S45_L001_R1_001.fastq.gz_trimming_report.txt
+├── 400161-1-16_S45_L001_R1_001_val_1.fq.gz
+├── 400161-1-16_S45_L001_R2_001.fastq.gz_trimming_report.txt
+├── 400161-1-16_S45_L001_R2_001_val_2.fq.gz
+├── 400161-2-16_S46_L001_R1_001.fastq.gz_trimming_report.txt
+├── 400161-2-16_S46_L001_R1_001_val_1.fq.gz
+├── 400161-2-16_S46_L001_R2_001.fastq.gz_trimming_report.txt
+├── 400161-2-16_S46_L001_R2_001_val_2.fq.gz
+├── 400204-17_S1_L001_R1_001.fastq.gz_trimming_report.txt
+├── 400204-17_S1_L001_R1_001_val_1.fq.gz
+├── 400204-17_S1_L001_R2_001.fastq.gz_trimming_report.txt
+├── 400204-17_S1_L001_R2_001_val_2.fq.gz
+├── 400266-13_S1_L001_R1_001.fastq.gz_trimming_report.txt
+├── 400266-13_S1_L001_R1_001_val_1.fq.gz
+├── 400266-13_S1_L001_R2_001.fastq.gz_trimming_report.txt
+├── 400266-13_S1_L001_R2_001_val_2.fq.gz
+├── 400354-14_S16_L001_R1_001.fastq.gz_trimming_report.txt
+├── 400354-14_S16_L001_R1_001_val_1.fq.gz
+├── 400354-14_S16_L001_R2_001.fastq.gz_trimming_report.txt
+├── 400354-14_S16_L001_R2_001_val_2.fq.gz
+├── 400360-17_S1_L001_R1_001.fastq.gz_trimming_report.txt
+├── 400360-17_S1_L001_R1_001_val_1.fq.gz
+├── 400360-17_S1_L001_R2_001.fastq.gz_trimming_report.txt
+├── 400360-17_S1_L001_R2_001_val_2.fq.gz
+├── 400455-13_S2_L001_R1_001.fastq.gz_trimming_report.txt
+├── 400455-13_S2_L001_R1_001_val_1.fq.gz
+├── 400455-13_S2_L001_R2_001.fastq.gz_trimming_report.txt
+├── 400455-13_S2_L001_R2_001_val_2.fq.gz
+├── 400607-17_S7_L001_R1_001.fastq.gz_trimming_report.txt
+├── 400607-17_S7_L001_R1_001_val_1.fq.gz
+├── 400607-17_S7_L001_R2_001.fastq.gz_trimming_report.txt
+├── 400607-17_S7_L001_R2_001_val_2.fq.gz
+├── 400695-12_S25_L001_R1_001.fastq.gz_trimming_report.txt
+├── 400695-12_S25_L001_R1_001_val_1.fq.gz
+├── 400695-12_S25_L001_R2_001.fastq.gz_trimming_report.txt
+├── 400695-12_S25_L001_R2_001_val_2.fq.gz
+├── 400696-12_S22_L001_R1_001.fastq.gz_trimming_report.txt
+├── 400696-12_S22_L001_R1_001_val_1.fq.gz
+├── 400696-12_S22_L001_R2_001.fastq.gz_trimming_report.txt
+├── 400696-12_S22_L001_R2_001_val_2.fq.gz
+├── 400751-14_S1_L001_R1_001.fastq.gz_trimming_report.txt
+├── 400751-14_S1_L001_R1_001_val_1.fq.gz
+├── 400751-14_S1_L001_R2_001.fastq.gz_trimming_report.txt
+├── 400751-14_S1_L001_R2_001_val_2.fq.gz
+├── 400772-14_S8_L001_R1_001.fastq.gz_trimming_report.txt
+├── 400772-14_S8_L001_R1_001_val_1.fq.gz
+├── 400772-14_S8_L001_R2_001.fastq.gz_trimming_report.txt
+├── 400772-14_S8_L001_R2_001_val_2.fq.gz
+├── 400793-11_S18_L001_R1_001.fastq.gz_trimming_report.txt
+├── 400793-11_S18_L001_R1_001_val_1.fq.gz
+├── 400793-11_S18_L001_R2_001.fastq.gz_trimming_report.txt
+├── 400793-11_S18_L001_R2_001_val_2.fq.gz
+├── 400840-14_S2_L001_R1_001.fastq.gz_trimming_report.txt
+├── 400840-14_S2_L001_R1_001_val_1.fq.gz
+├── 400840-14_S2_L001_R2_001.fastq.gz_trimming_report.txt
+├── 400840-14_S2_L001_R2_001_val_2.fq.gz
+├── 400854-13_S3_L001_R1_001.fastq.gz_trimming_report.txt
+├── 400854-13_S3_L001_R1_001_val_1.fq.gz
+├── 400854-13_S3_L001_R2_001.fastq.gz_trimming_report.txt
+├── 400854-13_S3_L001_R2_001_val_2.fq.gz
+├── 400924-13_S4_L001_R1_001.fastq.gz_trimming_report.txt
+├── 400924-13_S4_L001_R1_001_val_1.fq.gz
+├── 400924-13_S4_L001_R2_001.fastq.gz_trimming_report.txt
+├── 400924-13_S4_L001_R2_001_val_2.fq.gz
+├── 400925-13_S5_L001_R1_001.fastq.gz_trimming_report.txt
+├── 400925-13_S5_L001_R1_001_val_1.fq.gz
+├── 400925-13_S5_L001_R2_001.fastq.gz_trimming_report.txt
+├── 400925-13_S5_L001_R2_001_val_2.fq.gz
+├── 400960-13_S6_L001_R1_001.fastq.gz_trimming_report.txt
+├── 400960-13_S6_L001_R1_001_val_1.fq.gz
+├── 400960-13_S6_L001_R2_001.fastq.gz_trimming_report.txt
+├── 400960-13_S6_L001_R2_001_val_2.fq.gz
+├── 401068-12_S29_L001_R1_001.fastq.gz_trimming_report.txt
+├── 401068-12_S29_L001_R1_001_val_1.fq.gz
+├── 401068-12_S29_L001_R2_001.fastq.gz_trimming_report.txt
+├── 401068-12_S29_L001_R2_001_val_2.fq.gz
+├── 401075-12_S23_L001_R1_001.fastq.gz_trimming_report.txt
+├── 401075-12_S23_L001_R1_001_val_1.fq.gz
+├── 401075-12_S23_L001_R2_001.fastq.gz_trimming_report.txt
+├── 401075-12_S23_L001_R2_001_val_2.fq.gz
+├── 401084-17_S24_L001_R1_001.fastq.gz_trimming_report.txt
+├── 401084-17_S24_L001_R1_001_val_1.fq.gz
+├── 401084-17_S24_L001_R2_001.fastq.gz_trimming_report.txt
+├── 401084-17_S24_L001_R2_001_val_2.fq.gz
+├── 401125-16_S47_L001_R1_001.fastq.gz_trimming_report.txt
+├── 401125-16_S47_L001_R1_001_val_1.fq.gz
+├── 401125-16_S47_L001_R2_001.fastq.gz_trimming_report.txt
+├── 401125-16_S47_L001_R2_001_val_2.fq.gz
+├── 401269-14_S3_L001_R1_001.fastq.gz_trimming_report.txt
+├── 401269-14_S3_L001_R1_001_val_1.fq.gz
+├── 401269-14_S3_L001_R2_001.fastq.gz_trimming_report.txt
+├── 401269-14_S3_L001_R2_001_val_2.fq.gz
+├── 401433-14_S5_L001_R1_001.fastq.gz_trimming_report.txt
+├── 401433-14_S5_L001_R1_001_val_1.fq.gz
+├── 401433-14_S5_L001_R2_001.fastq.gz_trimming_report.txt
+├── 401433-14_S5_L001_R2_001_val_2.fq.gz
+├── 401508-14_S4_L001_R1_001.fastq.gz_trimming_report.txt
+├── 401508-14_S4_L001_R1_001_val_1.fq.gz
+├── 401508-14_S4_L001_R2_001.fastq.gz_trimming_report.txt
+├── 401508-14_S4_L001_R2_001_val_2.fq.gz
+├── 401589-13_S8_L001_R1_001.fastq.gz_trimming_report.txt
+├── 401589-13_S8_L001_R1_001_val_1.fq.gz
+├── 401589-13_S8_L001_R2_001.fastq.gz_trimming_report.txt
+├── 401589-13_S8_L001_R2_001_val_2.fq.gz
+├── 401608-14_S10_L001_R1_001.fastq.gz_trimming_report.txt
+├── 401608-14_S10_L001_R1_001_val_1.fq.gz
+├── 401608-14_S10_L001_R2_001.fastq.gz_trimming_report.txt
+├── 401608-14_S10_L001_R2_001_val_2.fq.gz
+├── 401629-14_S6_L001_R1_001.fastq.gz_trimming_report.txt
+├── 401629-14_S6_L001_R1_001_val_1.fq.gz
+├── 401629-14_S6_L001_R2_001.fastq.gz_trimming_report.txt
+├── 401629-14_S6_L001_R2_001_val_2.fq.gz
+├── 401649-2-14_S8_L001_R1_001.fastq.gz_trimming_report.txt
+├── 401649-2-14_S8_L001_R1_001_val_1.fq.gz
+├── 401649-2-14_S8_L001_R2_001.fastq.gz_trimming_report.txt
+├── 401649-2-14_S8_L001_R2_001_val_2.fq.gz
+├── 401649-3-14_S7_L001_R1_001.fastq.gz_trimming_report.txt
+├── 401649-3-14_S7_L001_R1_001_val_1.fq.gz
+├── 401649-3-14_S7_L001_R2_001.fastq.gz_trimming_report.txt
+├── 401649-3-14_S7_L001_R2_001_val_2.fq.gz
+├── 401677-14_S9_L001_R1_001.fastq.gz_trimming_report.txt
+├── 401677-14_S9_L001_R1_001_val_1.fq.gz
+├── 401677-14_S9_L001_R2_001.fastq.gz_trimming_report.txt
+├── 401677-14_S9_L001_R2_001_val_2.fq.gz
+├── 401717-13_S9_L001_R1_001.fastq.gz_trimming_report.txt
+├── 401717-13_S9_L001_R1_001_val_1.fq.gz
+├── 401717-13_S9_L001_R2_001.fastq.gz_trimming_report.txt
+├── 401717-13_S9_L001_R2_001_val_2.fq.gz
+├── 401801-14_S11_L001_R1_001.fastq.gz_trimming_report.txt
+├── 401801-14_S11_L001_R1_001_val_1.fq.gz
+├── 401801-14_S11_L001_R2_001.fastq.gz_trimming_report.txt
+├── 401801-14_S11_L001_R2_001_val_2.fq.gz
+├── 401805-2-13_S10_L001_R1_001.fastq.gz_trimming_report.txt
+├── 401805-2-13_S10_L001_R1_001_val_1.fq.gz
+├── 401805-2-13_S10_L001_R2_001.fastq.gz_trimming_report.txt
+├── 401805-2-13_S10_L001_R2_001_val_2.fq.gz
+├── 401805-3-13_S11_L001_R1_001.fastq.gz_trimming_report.txt
+├── 401805-3-13_S11_L001_R1_001_val_1.fq.gz
+├── 401805-3-13_S11_L001_R2_001.fastq.gz_trimming_report.txt
+├── 401805-3-13_S11_L001_R2_001_val_2.fq.gz
+├── 401808-12_S30_L001_R1_001.fastq.gz_trimming_report.txt
+├── 401808-12_S30_L001_R1_001_val_1.fq.gz
+├── 401808-12_S30_L001_R2_001.fastq.gz_trimming_report.txt
+├── 401808-12_S30_L001_R2_001_val_2.fq.gz
+├── 401811-12_S24_L001_R1_001.fastq.gz_trimming_report.txt
+├── 401811-12_S24_L001_R1_001_val_1.fq.gz
+├── 401811-12_S24_L001_R2_001.fastq.gz_trimming_report.txt
+├── 401811-12_S24_L001_R2_001_val_2.fq.gz
+├── 402152-13_S12_L001_R1_001.fastq.gz_trimming_report.txt
+├── 402152-13_S12_L001_R1_001_val_1.fq.gz
+├── 402152-13_S12_L001_R2_001.fastq.gz_trimming_report.txt
+├── 402152-13_S12_L001_R2_001_val_2.fq.gz
+├── 402592-13_S13_L001_R1_001.fastq.gz_trimming_report.txt
+├── 402592-13_S13_L001_R1_001_val_1.fq.gz
+├── 402592-13_S13_L001_R2_001.fastq.gz_trimming_report.txt
+├── 402592-13_S13_L001_R2_001_val_2.fq.gz
+├── 402738-10_S15_L001_R1_001.fastq.gz_trimming_report.txt
+├── 402738-10_S15_L001_R1_001_val_1.fq.gz
+├── 402738-10_S15_L001_R2_001.fastq.gz_trimming_report.txt
+├── 402738-10_S15_L001_R2_001_val_2.fq.gz
+├── 402840-10_S16_L001_R1_001.fastq.gz_trimming_report.txt
+├── 402840-10_S16_L001_R1_001_val_1.fq.gz
+├── 402840-10_S16_L001_R2_001.fastq.gz_trimming_report.txt
+├── 402840-10_S16_L001_R2_001_val_2.fq.gz
+├── 402859-10_S17_L001_R1_001.fastq.gz_trimming_report.txt
+├── 402859-10_S17_L001_R1_001_val_1.fq.gz
+├── 402859-10_S17_L001_R2_001.fastq.gz_trimming_report.txt
+├── 402859-10_S17_L001_R2_001_val_2.fq.gz
+├── 402894-13_S14_L001_R1_001.fastq.gz_trimming_report.txt
+├── 402894-13_S14_L001_R1_001_val_1.fq.gz
+├── 402894-13_S14_L001_R2_001.fastq.gz_trimming_report.txt
+├── 402894-13_S14_L001_R2_001_val_2.fq.gz
+├── 402949-11_S21_L001_R1_001.fastq.gz_trimming_report.txt
+├── 402949-11_S21_L001_R1_001_val_1.fq.gz
+├── 402949-11_S21_L001_R2_001.fastq.gz_trimming_report.txt
+├── 402949-11_S21_L001_R2_001_val_2.fq.gz
+├── 402962-16_S6_L001_R1_001.fastq.gz_trimming_report.txt
+├── 402962-16_S6_L001_R1_001_val_1.fq.gz
+├── 402962-16_S6_L001_R2_001.fastq.gz_trimming_report.txt
+├── 402962-16_S6_L001_R2_001_val_2.fq.gz
+├── 403091-13_S15_L001_R1_001.fastq.gz_trimming_report.txt
+├── 403091-13_S15_L001_R1_001_val_1.fq.gz
+├── 403091-13_S15_L001_R2_001.fastq.gz_trimming_report.txt
+├── 403091-13_S15_L001_R2_001_val_2.fq.gz
+├── 403161_S30_L001_R1_001.fastq.gz_trimming_report.txt
+├── 403161_S30_L001_R1_001_val_1.fq.gz
+├── 403161_S30_L001_R2_001.fastq.gz_trimming_report.txt
+├── 403161_S30_L001_R2_001_val_2.fq.gz
+├── 403172-17_S8_L001_R1_001.fastq.gz_trimming_report.txt
+├── 403172-17_S8_L001_R1_001_val_1.fq.gz
+├── 403172-17_S8_L001_R2_001.fastq.gz_trimming_report.txt
+├── 403172-17_S8_L001_R2_001_val_2.fq.gz
+├── 403243-11_S8_L001_R1_001.fastq.gz_trimming_report.txt
+├── 403243-11_S8_L001_R1_001_val_1.fq.gz
+├── 403243-11_S8_L001_R2_001.fastq.gz_trimming_report.txt
+├── 403243-11_S8_L001_R2_001_val_2.fq.gz
+├── 403420-17_S24_L001_R1_001.fastq.gz_trimming_report.txt
+├── 403420-17_S24_L001_R1_001_val_1.fq.gz
+├── 403420-17_S24_L001_R2_001.fastq.gz_trimming_report.txt
+├── 403420-17_S24_L001_R2_001_val_2.fq.gz
+├── 403425_S9_L001_R1_001.fastq.gz_trimming_report.txt
+├── 403425_S9_L001_R1_001_val_1.fq.gz
+├── 403425_S9_L001_R2_001.fastq.gz_trimming_report.txt
+├── 403425_S9_L001_R2_001_val_2.fq.gz
+├── 403499-17_S9_L001_R1_001.fastq.gz_trimming_report.txt
+├── 403499-17_S9_L001_R1_001_val_1.fq.gz
+├── 403499-17_S9_L001_R2_001.fastq.gz_trimming_report.txt
+├── 403499-17_S9_L001_R2_001_val_2.fq.gz
+├── 403646-16_S8_L001_R1_001.fastq.gz_trimming_report.txt
+├── 403646-16_S8_L001_R1_001_val_1.fq.gz
+├── 403646-16_S8_L001_R2_001.fastq.gz_trimming_report.txt
+├── 403646-16_S8_L001_R2_001_val_2.fq.gz
+├── 403669-15_S41_L001_R1_001.fastq.gz_trimming_report.txt
+├── 403669-15_S41_L001_R1_001_val_1.fq.gz
+├── 403669-15_S41_L001_R2_001.fastq.gz_trimming_report.txt
+├── 403669-15_S41_L001_R2_001_val_2.fq.gz
+├── 403773-16_S1_L001_R1_001.fastq.gz_trimming_report.txt
+├── 403773-16_S1_L001_R1_001_val_1.fq.gz
+├── 403773-16_S1_L001_R2_001.fastq.gz_trimming_report.txt
+├── 403773-16_S1_L001_R2_001_val_2.fq.gz
+├── 403774-16_S2_L001_R1_001.fastq.gz_trimming_report.txt
+├── 403774-16_S2_L001_R1_001_val_1.fq.gz
+├── 403774-16_S2_L001_R2_001.fastq.gz_trimming_report.txt
+├── 403774-16_S2_L001_R2_001_val_2.fq.gz
+├── 403850-15_S42_L001_R1_001.fastq.gz_trimming_report.txt
+├── 403850-15_S42_L001_R1_001_val_1.fq.gz
+├── 403850-15_S42_L001_R2_001.fastq.gz_trimming_report.txt
+├── 403850-15_S42_L001_R2_001_val_2.fq.gz
+├── 403869-16_S4_L001_R1_001.fastq.gz_trimming_report.txt
+├── 403869-16_S4_L001_R1_001_val_1.fq.gz
+├── 403869-16_S4_L001_R2_001.fastq.gz_trimming_report.txt
+├── 403869-16_S4_L001_R2_001_val_2.fq.gz
+├── 403902_S21_L001_R1_001.fastq.gz_trimming_report.txt
+├── 403902_S21_L001_R1_001_val_1.fq.gz
+├── 403902_S21_L001_R2_001.fastq.gz_trimming_report.txt
+├── 403902_S21_L001_R2_001_val_2.fq.gz
+├── 404197-15_S44_L001_R1_001.fastq.gz_trimming_report.txt
+├── 404197-15_S44_L001_R1_001_val_1.fq.gz
+├── 404197-15_S44_L001_R2_001.fastq.gz_trimming_report.txt
+├── 404197-15_S44_L001_R2_001_val_2.fq.gz
+├── 404261-16_S5_L001_R1_001.fastq.gz_trimming_report.txt
+├── 404261-16_S5_L001_R1_001_val_1.fq.gz
+├── 404261-16_S5_L001_R2_001.fastq.gz_trimming_report.txt
+├── 404261-16_S5_L001_R2_001_val_2.fq.gz
+├── 404387-16_S8_L001_R1_001.fastq.gz_trimming_report.txt
+├── 404387-16_S8_L001_R1_001_val_1.fq.gz
+├── 404387-16_S8_L001_R2_001.fastq.gz_trimming_report.txt
+├── 404387-16_S8_L001_R2_001_val_2.fq.gz
+├── 404430-16_S45_L001_R1_001.fastq.gz_trimming_report.txt
+├── 404430-16_S45_L001_R1_001_val_1.fq.gz
+├── 404430-16_S45_L001_R2_001.fastq.gz_trimming_report.txt
+├── 404430-16_S45_L001_R2_001_val_2.fq.gz
+├── 404431-16_S6_L001_R1_001.fastq.gz_trimming_report.txt
+├── 404431-16_S6_L001_R1_001_val_1.fq.gz
+├── 404431-16_S6_L001_R2_001.fastq.gz_trimming_report.txt
+├── 404431-16_S6_L001_R2_001_val_2.fq.gz
+├── 404482-16_S18_L001_R1_001.fastq.gz_trimming_report.txt
+├── 404482-16_S18_L001_R1_001_val_1.fq.gz
+├── 404482-16_S18_L001_R2_001.fastq.gz_trimming_report.txt
+├── 404482-16_S18_L001_R2_001_val_2.fq.gz
+├── 404483-16_S19_L001_R1_001.fastq.gz_trimming_report.txt
+├── 404483-16_S19_L001_R1_001_val_1.fq.gz
+├── 404483-16_S19_L001_R2_001.fastq.gz_trimming_report.txt
+├── 404483-16_S19_L001_R2_001_val_2.fq.gz
+├── 404507-16_S17_L001_R1_001.fastq.gz_trimming_report.txt
+├── 404507-16_S17_L001_R1_001_val_1.fq.gz
+├── 404507-16_S17_L001_R2_001.fastq.gz_trimming_report.txt
+├── 404507-16_S17_L001_R2_001_val_2.fq.gz
+├── 404556-16_S7_L001_R1_001.fastq.gz_trimming_report.txt
+├── 404556-16_S7_L001_R1_001_val_1.fq.gz
+├── 404556-16_S7_L001_R2_001.fastq.gz_trimming_report.txt
+├── 404556-16_S7_L001_R2_001_val_2.fq.gz
+├── 500144_S22_L001_R1_001.fastq.gz_trimming_report.txt
+├── 500144_S22_L001_R1_001_val_1.fq.gz
+├── 500144_S22_L001_R2_001.fastq.gz_trimming_report.txt
+├── 500144_S22_L001_R2_001_val_2.fq.gz
+├── 501181-12_S27_L001_R1_001.fastq.gz_trimming_report.txt
+├── 501181-12_S27_L001_R1_001_val_1.fq.gz
+├── 501181-12_S27_L001_R2_001.fastq.gz_trimming_report.txt
+├── 501181-12_S27_L001_R2_001_val_2.fq.gz
+├── 501326-11_S20_L001_R1_001.fastq.gz_trimming_report.txt
+├── 501326-11_S20_L001_R1_001_val_1.fq.gz
+├── 501326-11_S20_L001_R2_001.fastq.gz_trimming_report.txt
+├── 501326-11_S20_L001_R2_001_val_2.fq.gz
+├── 501457-1-17_S1_L001_R1_001.fastq.gz_trimming_report.txt
+├── 501457-1-17_S1_L001_R1_001_val_1.fq.gz
+├── 501457-1-17_S1_L001_R2_001.fastq.gz_trimming_report.txt
+├── 501457-1-17_S1_L001_R2_001_val_2.fq.gz
+├── 501457-2-17_S2_L001_R1_001.fastq.gz_trimming_report.txt
+├── 501457-2-17_S2_L001_R1_001_val_1.fq.gz
+├── 501457-2-17_S2_L001_R2_001.fastq.gz_trimming_report.txt
+├── 501457-2-17_S2_L001_R2_001_val_2.fq.gz
+├── 501457-3-17_S3_L001_R1_001.fastq.gz_trimming_report.txt
+├── 501457-3-17_S3_L001_R1_001_val_1.fq.gz
+├── 501457-3-17_S3_L001_R2_001.fastq.gz_trimming_report.txt
+├── 501457-3-17_S3_L001_R2_001_val_2.fq.gz
+├── 501457-4-17_S4_L001_R1_001.fastq.gz_trimming_report.txt
+├── 501457-4-17_S4_L001_R1_001_val_1.fq.gz
+├── 501457-4-17_S4_L001_R2_001.fastq.gz_trimming_report.txt
+├── 501457-4-17_S4_L001_R2_001_val_2.fq.gz
+├── 501457-5-17_S5_L001_R1_001.fastq.gz_trimming_report.txt
+├── 501457-5-17_S5_L001_R1_001_val_1.fq.gz
+├── 501457-5-17_S5_L001_R2_001.fastq.gz_trimming_report.txt
+├── 501457-5-17_S5_L001_R2_001_val_2.fq.gz
+├── 501526-1-17_S7_L001_R1_001.fastq.gz_trimming_report.txt
+├── 501526-1-17_S7_L001_R1_001_val_1.fq.gz
+├── 501526-1-17_S7_L001_R2_001.fastq.gz_trimming_report.txt
+├── 501526-1-17_S7_L001_R2_001_val_2.fq.gz
+├── 501526-2-17_S8_L001_R1_001.fastq.gz_trimming_report.txt
+├── 501526-2-17_S8_L001_R1_001_val_1.fq.gz
+├── 501526-2-17_S8_L001_R2_001.fastq.gz_trimming_report.txt
+├── 501526-2-17_S8_L001_R2_001_val_2.fq.gz
+├── 502937-17_S7_L001_R1_001.fastq.gz_trimming_report.txt
+├── 502937-17_S7_L001_R1_001_val_1.fq.gz
+├── 502937-17_S7_L001_R2_001.fastq.gz_trimming_report.txt
+├── 502937-17_S7_L001_R2_001_val_2.fq.gz
+├── 503397-12_S20_L001_R1_001.fastq.gz_trimming_report.txt
+├── 503397-12_S20_L001_R1_001_val_1.fq.gz
+├── 503397-12_S20_L001_R2_001.fastq.gz_trimming_report.txt
+├── 503397-12_S20_L001_R2_001_val_2.fq.gz
+├── 504100-16_S12_L001_R1_001.fastq.gz_trimming_report.txt
+├── 504100-16_S12_L001_R1_001_val_1.fq.gz
+├── 504100-16_S12_L001_R2_001.fastq.gz_trimming_report.txt
+├── 504100-16_S12_L001_R2_001_val_2.fq.gz
+├── 601641-17_S9_L001_R1_001.fastq.gz_trimming_report.txt
+├── 601641-17_S9_L001_R1_001_val_1.fq.gz
+├── 601641-17_S9_L001_R2_001.fastq.gz_trimming_report.txt
+├── 601641-17_S9_L001_R2_001_val_2.fq.gz
+├── 603599-17_S1_L001_R1_001.fastq.gz_trimming_report.txt
+├── 603599-17_S1_L001_R1_001_val_1.fq.gz
+├── 603599-17_S1_L001_R2_001.fastq.gz_trimming_report.txt
+├── 603599-17_S1_L001_R2_001_val_2.fq.gz
+├── 607795-16_S7_L001_R1_001.fastq.gz_trimming_report.txt
+├── 607795-16_S7_L001_R1_001_val_1.fq.gz
+├── 607795-16_S7_L001_R2_001.fastq.gz_trimming_report.txt
+├── 607795-16_S7_L001_R2_001_val_2.fq.gz
+├── 610213-16_S10_L001_R1_001.fastq.gz_trimming_report.txt
+├── 610213-16_S10_L001_R1_001_val_1.fq.gz
+├── 610213-16_S10_L001_R2_001.fastq.gz_trimming_report.txt
+├── 610213-16_S10_L001_R2_001_val_2.fq.gz
+├── 610215-16_S11_L001_R1_001.fastq.gz_trimming_report.txt
+├── 610215-16_S11_L001_R1_001_val_1.fq.gz
+├── 610215-16_S11_L001_R2_001.fastq.gz_trimming_report.txt
+├── 610215-16_S11_L001_R2_001_val_2.fq.gz
+├── 702166-12_S24_L001_R1_001.fastq.gz_trimming_report.txt
+├── 702166-12_S24_L001_R1_001_val_1.fq.gz
+├── 702166-12_S24_L001_R2_001.fastq.gz_trimming_report.txt
+├── 702166-12_S24_L001_R2_001_val_2.fq.gz
+├── 704984-11_S19_L001_R1_001.fastq.gz_trimming_report.txt
+├── 704984-11_S19_L001_R1_001_val_1.fq.gz
+├── 704984-11_S19_L001_R2_001.fastq.gz_trimming_report.txt
+├── 704984-11_S19_L001_R2_001_val_2.fq.gz
+├── 707974-17_S27_L001_R1_001.fastq.gz_trimming_report.txt
+├── 707974-17_S27_L001_R1_001_val_1.fq.gz
+├── 707974-17_S27_L001_R2_001.fastq.gz_trimming_report.txt
+├── 707974-17_S27_L001_R2_001_val_2.fq.gz
+├── 713220-4-17_S11_L001_R1_001.fastq.gz_trimming_report.txt
+├── 713220-4-17_S11_L001_R1_001_val_1.fq.gz
+├── 713220-4-17_S11_L001_R2_001.fastq.gz_trimming_report.txt
+├── 713220-4-17_S11_L001_R2_001_val_2.fq.gz
+├── 713852-17_S16_L001_R1_001.fastq.gz_trimming_report.txt
+├── 713852-17_S16_L001_R1_001_val_1.fq.gz
+├── 713852-17_S16_L001_R2_001.fastq.gz_trimming_report.txt
+├── 713852-17_S16_L001_R2_001_val_2.fq.gz
+├── 714843-17_S9_L001_R1_001.fastq.gz_trimming_report.txt
+├── 714843-17_S9_L001_R1_001_val_1.fq.gz
+├── 714843-17_S9_L001_R2_001.fastq.gz_trimming_report.txt
+├── 714843-17_S9_L001_R2_001_val_2.fq.gz
+├── 716042-10_S8_L001_R1_001.fastq.gz_trimming_report.txt
+├── 716042-10_S8_L001_R1_001_val_1.fq.gz
+├── 716042-10_S8_L001_R2_001.fastq.gz_trimming_report.txt
+├── 716042-10_S8_L001_R2_001_val_2.fq.gz
+├── 717256-10_S9_L001_R1_001.fastq.gz_trimming_report.txt
+├── 717256-10_S9_L001_R1_001_val_1.fq.gz
+├── 717256-10_S9_L001_R2_001.fastq.gz_trimming_report.txt
+├── 717256-10_S9_L001_R2_001_val_2.fq.gz
+├── 718481-11_S7_L001_R1_001.fastq.gz_trimming_report.txt
+├── 718481-11_S7_L001_R1_001_val_1.fq.gz
+├── 718481-11_S7_L001_R2_001.fastq.gz_trimming_report.txt
+├── 718481-11_S7_L001_R2_001_val_2.fq.gz
+├── 800329-11_S10_L001_R1_001.fastq.gz_trimming_report.txt
+├── 800329-11_S10_L001_R1_001_val_1.fq.gz
+├── 800329-11_S10_L001_R2_001.fastq.gz_trimming_report.txt
+├── 800329-11_S10_L001_R2_001_val_2.fq.gz
+├── 804001-16_S48_L001_R1_001.fastq.gz_trimming_report.txt
+├── 804001-16_S48_L001_R1_001_val_1.fq.gz
+├── 804001-16_S48_L001_R2_001.fastq.gz_trimming_report.txt
+├── 804001-16_S48_L001_R2_001_val_2.fq.gz
+├── 804135-14_S12_L001_R1_001.fastq.gz_trimming_report.txt
+├── 804135-14_S12_L001_R1_001_val_1.fq.gz
+├── 804135-14_S12_L001_R2_001.fastq.gz_trimming_report.txt
+├── 804135-14_S12_L001_R2_001_val_2.fq.gz
+├── 804414-1-11_S11_L001_R1_001.fastq.gz_trimming_report.txt
+├── 804414-1-11_S11_L001_R1_001_val_1.fq.gz
+├── 804414-1-11_S11_L001_R2_001.fastq.gz_trimming_report.txt
+├── 804414-1-11_S11_L001_R2_001_val_2.fq.gz
+├── 804414-2-11_S12_L001_R1_001.fastq.gz_trimming_report.txt
+├── 804414-2-11_S12_L001_R1_001_val_1.fq.gz
+├── 804414-2-11_S12_L001_R2_001.fastq.gz_trimming_report.txt
+├── 804414-2-11_S12_L001_R2_001_val_2.fq.gz
+├── 804414-3-11_S13_L001_R1_001.fastq.gz_trimming_report.txt
+├── 804414-3-11_S13_L001_R1_001_val_1.fq.gz
+├── 804414-3-11_S13_L001_R2_001.fastq.gz_trimming_report.txt
+├── 804414-3-11_S13_L001_R2_001_val_2.fq.gz
+├── 804442_S28_L001_R1_001.fastq.gz_trimming_report.txt
+├── 804442_S28_L001_R1_001_val_1.fq.gz
+├── 804442_S28_L001_R2_001.fastq.gz_trimming_report.txt
+├── 804442_S28_L001_R2_001_val_2.fq.gz
+├── 804562_S29_L001_R1_001.fastq.gz_trimming_report.txt
+├── 804562_S29_L001_R1_001_val_1.fq.gz
+├── 804562_S29_L001_R2_001.fastq.gz_trimming_report.txt
+├── 804562_S29_L001_R2_001_val_2.fq.gz
+├── 805095-11_S14_L001_R1_001.fastq.gz_trimming_report.txt
+├── 805095-11_S14_L001_R1_001_val_1.fq.gz
+├── 805095-11_S14_L001_R2_001.fastq.gz_trimming_report.txt
+├── 805095-11_S14_L001_R2_001_val_2.fq.gz
+├── 805689_S31_L001_R1_001.fastq.gz_trimming_report.txt
+├── 805689_S31_L001_R1_001_val_1.fq.gz
+├── 805689_S31_L001_R2_001.fastq.gz_trimming_report.txt
+├── 805689_S31_L001_R2_001_val_2.fq.gz
+├── 806823-15_S43_L001_R1_001.fastq.gz_trimming_report.txt
+├── 806823-15_S43_L001_R1_001_val_1.fq.gz
+├── 806823-15_S43_L001_R2_001.fastq.gz_trimming_report.txt
+├── 806823-15_S43_L001_R2_001_val_2.fq.gz
+├── 807325-16_S3_L001_R1_001.fastq.gz_trimming_report.txt
+├── 807325-16_S3_L001_R1_001_val_1.fq.gz
+├── 807325-16_S3_L001_R2_001.fastq.gz_trimming_report.txt
+├── 807325-16_S3_L001_R2_001_val_2.fq.gz
+├── 808922-42-16_S20_L001_R1_001.fastq.gz_trimming_report.txt
+├── 808922-42-16_S20_L001_R1_001_val_1.fq.gz
+├── 808922-42-16_S20_L001_R2_001.fastq.gz_trimming_report.txt
+├── 808922-42-16_S20_L001_R2_001_val_2.fq.gz
+├── 808927-4-16_S21_L001_R1_001.fastq.gz_trimming_report.txt
+├── 808927-4-16_S21_L001_R1_001_val_1.fq.gz
+├── 808927-4-16_S21_L001_R2_001.fastq.gz_trimming_report.txt
+├── 808927-4-16_S21_L001_R2_001_val_2.fq.gz
+├── 808934-10-16_S22_L001_R1_001.fastq.gz_trimming_report.txt
+├── 808934-10-16_S22_L001_R1_001_val_1.fq.gz
+├── 808934-10-16_S22_L001_R2_001.fastq.gz_trimming_report.txt
+├── 808934-10-16_S22_L001_R2_001_val_2.fq.gz
+├── 808934-11-16_S23_L001_R1_001.fastq.gz_trimming_report.txt
+├── 808934-11-16_S23_L001_R1_001_val_1.fq.gz
+├── 808934-11-16_S23_L001_R2_001.fastq.gz_trimming_report.txt
+├── 808934-11-16_S23_L001_R2_001_val_2.fq.gz
+├── 9959-09-2010-12_S21_L001_R1_001.fastq.gz_trimming_report.txt
+├── 9959-09-2010-12_S21_L001_R1_001_val_1.fq.gz
+├── 9959-09-2010-12_S21_L001_R2_001.fastq.gz_trimming_report.txt
+├── 9959-09-2010-12_S21_L001_R2_001_val_2.fq.gz
+└── trimSlurmReports
+    ├── slurm-16892845.out
+    ├── slurm-16892846.out
+    ├── slurm-16892847.out
+    ├── slurm-16892848.out
+    ├── slurm-16892849.out
+    ├── slurm-16892851.out
+    ├── slurm-16892852.out
+    ├── slurm-16892853.out
+    ├── slurm-16892854.out
+    ├── slurm-16892855.out
+    ├── slurm-16892856.out
+    ├── slurm-16892857.out
+    ├── slurm-16892858.out
+    ├── slurm-16892859.out
+    ├── slurm-16892860.out
+    ├── slurm-16892861.out
+    ├── slurm-16892862.out
+    ├── slurm-16892863.out
+    ├── slurm-16892864.out
+    ├── slurm-16892865.out
+    ├── slurm-16892866.out
+    ├── slurm-16892867.out
+    ├── slurm-16892868.out
+    ├── slurm-16892869.out
+    ├── slurm-16892870.out
+    ├── slurm-16892871.out
+    ├── slurm-16892872.out
+    ├── slurm-16892873.out
+    ├── slurm-16892874.out
+    ├── slurm-16892875.out
+    ├── slurm-16892876.out
+    ├── slurm-16892877.out
+    ├── slurm-16892878.out
+    ├── slurm-16892879.out
+    ├── slurm-16892880.out
+    ├── slurm-16892881.out
+    ├── slurm-16892882.out
+    ├── slurm-16892883.out
+    ├── slurm-16892884.out
+    ├── slurm-16892885.out
+    ├── slurm-16892886.out
+    ├── slurm-16892887.out
+    ├── slurm-16892888.out
+    ├── slurm-16892889.out
+    ├── slurm-16892890.out
+    ├── slurm-16892891.out
+    ├── slurm-16892892.out
+    ├── slurm-16892893.out
+    ├── slurm-16892894.out
+    ├── slurm-16892895.out
+    ├── slurm-16892896.out
+    ├── slurm-16892897.out
+    ├── slurm-16892898.out
+    ├── slurm-16892899.out
+    ├── slurm-16892900.out
+    ├── slurm-16892901.out
+    ├── slurm-16892902.out
+    ├── slurm-16892903.out
+    ├── slurm-16892904.out
+    ├── slurm-16892905.out
+    ├── slurm-16892906.out
+    ├── slurm-16892907.out
+    ├── slurm-16892908.out
+    ├── slurm-16892909.out
+    ├── slurm-16892910.out
+    ├── slurm-16892911.out
+    ├── slurm-16892912.out
+    ├── slurm-16892913.out
+    ├── slurm-16892914.out
+    ├── slurm-16892915.out
+    ├── slurm-16892916.out
+    ├── slurm-16892917.out
+    ├── slurm-16892918.out
+    ├── slurm-16892919.out
+    ├── slurm-16892920.out
+    ├── slurm-16892921.out
+    ├── slurm-16892922.out
+    ├── slurm-16892923.out
+    ├── slurm-16892924.out
+    ├── slurm-16892925.out
+    ├── slurm-16892926.out
+    ├── slurm-16892927.out
+    ├── slurm-16892928.out
+    ├── slurm-16892929.out
+    ├── slurm-16892930.out
+    ├── slurm-16892931.out
+    ├── slurm-16892932.out
+    ├── slurm-16892933.out
+    ├── slurm-16892934.out
+    ├── slurm-16892935.out
+    ├── slurm-16892936.out
+    ├── slurm-16892937.out
+    ├── slurm-16892938.out
+    ├── slurm-16892939.out
+    ├── slurm-16892940.out
+    ├── slurm-16892941.out
+    ├── slurm-16892942.out
+    ├── slurm-16892943.out
+    ├── slurm-16892944.out
+    ├── slurm-16892945.out
+    ├── slurm-16892946.out
+    ├── slurm-16892947.out
+    ├── slurm-16892948.out
+    ├── slurm-16892949.out
+    ├── slurm-16892950.out
+    ├── slurm-16892951.out
+    ├── slurm-16892952.out
+    ├── slurm-16892953.out
+    ├── slurm-16892954.out
+    ├── slurm-16892955.out
+    ├── slurm-16892956.out
+    ├── slurm-16892957.out
+    ├── slurm-16892958.out
+    ├── slurm-16892959.out
+    ├── slurm-16892960.out
+    ├── slurm-16892961.out
+    ├── slurm-16892962.out
+    ├── slurm-16892963.out
+    ├── slurm-16892964.out
+    ├── slurm-16892965.out
+    ├── slurm-16892966.out
+    ├── slurm-16892967.out
+    ├── slurm-16892968.out
+    ├── slurm-16892969.out
+    ├── slurm-16892970.out
+    ├── slurm-16892971.out
+    ├── slurm-16892972.out
+    ├── slurm-16892973.out
+    ├── slurm-16892974.out
+    ├── slurm-16892975.out
+    └── slurm-16892976.out
+
+2 directories, 729 files
