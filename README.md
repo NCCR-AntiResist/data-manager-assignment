@@ -7,11 +7,11 @@ The raw data have been deposited in public archives at [NCBI under BioProject PR
 
 We need a data organization that links
 
-  * The resistance information
+  * the resistance information
   * the Illumina data
   * the nanopore data
   * the assemblies
-  * the records on SRA
+  * the records on SRA and genbank
 
 ### [illumina_data.tree](illumina_data.tree)
 
@@ -22,8 +22,8 @@ Files ending on `_R1_001_val_1.fq.gz` are read 1, files ending on `_R2_001_val_2
 
 ### [nanopore_data.tree](nanopore_data.tree)
 
-This file contains the nanopore runs.
-Each run is labeled by the date in as `%Y%m%s`.
+This file contains the nanopore runs (or rather the directory structure of these data).
+Each run is labeled by the date with the format `%Y%m%s`.
 Each folder contains the processed reads by barcode as `BC{%02d}.fasta.gz` where the placeholder is the barcode number.
 
 ### [sample_table.csv](sample_table.csv)
@@ -44,6 +44,6 @@ Fine to focus on these for now.
 
 ### [MIC_data.csv](MIC_data.csv)
 
-This fule contains more meta data such as species as well as resistance information.
+This file contains more meta data such as species as well as resistance information.
 
 
